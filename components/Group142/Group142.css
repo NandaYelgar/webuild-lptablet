@@ -1,0 +1,126 @@
+.blueprint {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 24px;
+}
+.group-142 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 686px;
+  width: 628px;
+}
+.group-145 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 270px;
+  width: 632px;
+}
+.overlap-group2-1 {
+  height: 25px;
+  margin-top: -0.64px;
+  position: relative;
+  width: 25px;
+}
+.rectangle-73 {
+  height: 375px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 628px;
+}
+.text-4 {
+  color: var(--black);
+  font-weight: 800;
+  height: 51px;
+  line-height: 34px;
+  margin-top: 15px;
+  min-height: 51px;
+  mix-blend-mode: normal;
+  width: 337px;
+}
+.text-5 {
+  color: var(--black);
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 164px;
+  mix-blend-mode: normal;
+  width: 630px;
+}
+.vector-26 {
+  height: 7px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+.vector-27 {
+  height: 21px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+.vector-28 {
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 15px;
+}
+.vector-29 {
+  height: 3px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 3px;
+}
+.vector-30 {
+  height: 14px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 14px;
+}
+.vector-31 {
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 6px;
+}
+.vector-32 {
+  height: 12px;
+  left: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+.vector-33 {
+  height: 2px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 2px;
+}
+.vector-34 {
+  height: 2px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}

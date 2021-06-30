@@ -1,0 +1,36 @@
+.frame-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 70px;
+  margin-top: 183px;
+  min-height: 326px;
+  position: relative;
+  width: 336px;
+}
+.span0 {
+  letter-spacing: -0.11px;
+  line-height: 28px;
+}
+.span1 {
+  letter-spacing: -0.22px;
+  line-height: 28px;
+}
+.span2 {
+  letter-spacing: -0.16px;
+  line-height: 48px;
+}
+.text-8 {
+  height: 143px;
+  line-height: 16px;
+  min-height: 143px;
+  width: 285px;
+}
+.text-9 {
+  color: var(--black);
+  line-height: 20px;
+  margin-top: 24px;
+  min-height: 95px;
+  mix-blend-mode: normal;
+  width: 338px;
+}

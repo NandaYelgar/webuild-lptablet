@@ -1,0 +1,23 @@
+.frame-156 {
+  align-items: flex-start;
+  display: flex;
+  height: 374px;
+  min-width: 628px;
+  position: relative;
+}
+.frame-157 {
+  align-items: flex-start;
+  display: flex;
+  height: 374px;
+  margin-top: 24px;
+  min-width: 628px;
+  position: relative;
+}
+.frame-158 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  min-height: 772px;
+  width: 628px;
+}

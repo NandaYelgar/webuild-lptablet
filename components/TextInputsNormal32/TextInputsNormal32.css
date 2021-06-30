@@ -1,0 +1,10 @@
+.text-inputs-normal {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  min-width: 337px;
+  position: relative;
+}
+.text-inputs-normal.text-inputs-normal-1 {
+  margin-top: 24px;
+}

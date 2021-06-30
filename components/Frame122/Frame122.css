@@ -1,0 +1,20 @@
+.frame-1-1-1 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 50px;
+  overflow: hidden;
+  padding: 0 16px;
+  width: 337px;
+}
+.frame-1-1-1.frame-1-1 .text-21 {
+  min-width: 185px;
+}
+.text-21 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 22px;
+  min-width: 31px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
